@@ -44,8 +44,9 @@ Add images and other contents using CSS record a screenshot of it.
     </section>
     </body>
 </html>
-
-###CSS:
+```
+### CSS:
+```css
 body{
     color:rgb(255, 255, 255);
     font-family: Helvetica, sans-serif;
@@ -104,6 +105,7 @@ footer{
   #end{
     padding-right:60px;
   }
+
 ```
 
 ## Output:
